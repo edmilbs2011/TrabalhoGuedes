@@ -30,3 +30,13 @@
 
 # Debug files
 *.dSYM/
+
+
+#visual studio
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.opensdf
+*.sdf
+*.sln
+
